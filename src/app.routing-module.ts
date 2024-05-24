@@ -8,4 +8,4 @@ import { UserModule } from './user/user.module';
     exports: [RouterModule],
     imports: [RouterModule.register(routes), TaskModule, UserModule],
 })
-export class AppRoutingModule {}
+export class AppRoutingModule { }
