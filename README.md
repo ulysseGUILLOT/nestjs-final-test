@@ -22,7 +22,7 @@ cd nestjs-final-test
 2. Install dependencies and setup the database
 
 ```bash
-npm i
+npm ci
 ```
 
 ## Running the Application
